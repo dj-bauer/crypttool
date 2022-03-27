@@ -1,3 +1,5 @@
+This is now migrated to [Gitlab](https://www.gitlab.com/dj-bauer/dj-crypt)
+
 # Dj-Crypt
 A little project of mine to practice for school
 
