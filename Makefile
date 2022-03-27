@@ -1,6 +1,6 @@
 .PHONY: clean debug
 
-TARGET ?= crypttool 
+TARGET ?= dj-crypt
 SRC_DIRS ?= .
 CC ?= g++
 
