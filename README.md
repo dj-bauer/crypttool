@@ -1,6 +1,8 @@
 # Dj-Crypt
 A little project of mine to practice for school
 
+![Screenshot](screenshot.png)
+
 # License
 This project is licensed under the GPL 3.0 General Public License.
 
